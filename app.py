@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import base64
 
 # Define the expenses for the month as Streamlit slider widgets
 st.sidebar.title('Enter Expenses for the Month')
